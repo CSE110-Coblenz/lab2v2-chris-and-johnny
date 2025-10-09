@@ -1,4 +1,4 @@
-const snacksList = ["Reeses", "Snickers", "Lays", "Oreos", "Doritos", "Skittles"];
+export const snacksList = ["Reeses", "Snickers", "Lays", "Oreos", "Doritos", "Skittles"];
 	
 export function printSnacks(snacksList){
 	for (let i in snacksList){
