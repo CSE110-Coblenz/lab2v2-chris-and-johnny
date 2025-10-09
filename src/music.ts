@@ -1,8 +1,11 @@
+import { animateFeature } from "./animation.ts";
+
 const musicList = ["Ordinary", "Daisies", "I Got Better"];
 	
 export function printMusic(musicList){
+	animateFeature("Party! Party! Party! - Music Time", "bold");
 	for (let i in musicList){
-		console.log(musicList[i]);
+		animateFeature(musicList[i], "italic");
 	}
 }
 
