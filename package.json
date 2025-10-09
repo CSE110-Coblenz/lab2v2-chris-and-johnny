@@ -19,9 +19,7 @@
   "homepage": "https://github.com/CSE110-Coblenz/lab2v2-chris-and-johnny#readme",
   "devDependencies": {
     "tsc": "^2.0.4",
+    "typescript": "^5.9.3",
     "vitest": "^3.2.4"
-  },
-  "dependencies": {
-    "typescript": "^5.9.3"
   }
 }
