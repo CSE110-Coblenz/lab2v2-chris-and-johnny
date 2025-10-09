@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/CSE110-Coblenz/lab2v2-chris-and-johnny/issues"
   },
-  "homepage": "https://github.com/CSE110-Coblenz/lab2v2-chris-and-johnny#readme"
+  "homepage": "https://github.com/CSE110-Coblenz/lab2v2-chris-and-johnny#readme",
+  "devDependencies": {
+    "tsc": "^2.0.4",
+    "vitest": "^3.2.4"
+  }
 }
